@@ -10,7 +10,7 @@ This project demonstrates automated testing of a user journey on the N11 website
 
 ## Setup
 
-1. Clone the repository: `git clone https://github.com/muhammedkeskin/Muhammedkeskin_n11`
+1. Clone the repository: `git clone https://github.com/muhammedkeskin/MuhammedKeskin_n11`
 2. Install dependencies: `mvn clean install`
 
 ## Running Tests
